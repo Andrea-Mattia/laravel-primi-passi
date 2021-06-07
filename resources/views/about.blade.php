@@ -23,8 +23,8 @@
         </header>
 
         <main>
-            <h1>HOMEPAGE</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit deleniti eius dolorum atque, minima mollitia aperiam perferendis itaque repellendus, praesentium maiores nemo deserunt velit molestias eum sequi possimus ex autem.</p>
+            <h2>About me</h2>
+            <div>Hi, I'm Andrea, I'm 26 years old and I'm almost a full stack web developer!</div>
         </main>
 
     </body>

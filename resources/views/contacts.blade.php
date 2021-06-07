@@ -23,8 +23,15 @@
         </header>
 
         <main>
-            <h1>HOMEPAGE</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit deleniti eius dolorum atque, minima mollitia aperiam perferendis itaque repellendus, praesentium maiores nemo deserunt velit molestias eum sequi possimus ex autem.</p>
+            <h2>Contacts</h2>
+            <h4>Here's how you can reach me:</h4>
+            <ul>
+                <li><a href="#">Email</a></li>
+                <li><a href="#">Linkedin</a></li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Instagram</a></li>
+            </ul>
         </main>
 
     </body>
